@@ -109,7 +109,7 @@ input[type="search"]:focus {
 
 .hero {
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url(img/libros.jpg) center center no-repeat;
+    url(public/img/libros.jpg) center center no-repeat;
   height: 30rem;
   display: flex;
   align-items: center;
