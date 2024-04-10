@@ -212,7 +212,7 @@ input[type="search"]:focus {
 #foto-ficcion {
   width: 450px;
   height: 450px;
-  background: url(img/ficcion.jpg) center center no-repeat;
+  background: url(../img/ficcion.jpg) center center no-repeat;
   background-size: cover;
   border-radius: 1rem;
 }
@@ -269,19 +269,19 @@ input[type="search"]:focus {
 .libro-imagen-1,
 .libro-imagen-2,
 .libro-imagen-3 {
-  background: url(img/libro1.jpg) no-repeat center center;
+  background: url(../img/libro1.jpg) no-repeat center center;
   background-size: cover;
 
   height: 30rem;
 }
 
 .libro-imagen-2 {
-  background: url(img/libro2.jpg) no-repeat;
+  background: url(../img/libro2.jpg) no-repeat;
   background-size: 100% 100%;
 }
 
 .libro-imagen-3 {
-  background: url(img/libro3.jpg);
+  background: url(../img/libro3.jpg);
   background-size: 100% 100%;
 }
 
